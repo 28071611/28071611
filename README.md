@@ -3,20 +3,22 @@
 
 <p align="center">
   <img src="Captain America Batman GIF.gif" width="200"/>
+</p>
 ---
-
-## 📊 GitHub Stats
+<p>## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=28071611&show_icons=true&theme=tokyonight)
 
 ---
-
+</p>
+<p>
 ## 🔥 Streak Stats
 
 ![Streak](https://streak-stats.demolab.com/?user=28071611&theme=tokyonight)
 
 ---
-
+</p>
+<p>
 ## 💻 Most Used Languages
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=28071611&layout=compact&theme=tokyonight)
