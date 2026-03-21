@@ -2,13 +2,12 @@
 
 
 <p align="center">
-  <img src="" width="200"/>
-</p>
+  <img src="Captain America Batman GIF.gif" width="200"/>
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?28071611&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=28071611&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -21,3 +20,4 @@
 ## 💻 Most Used Languages
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=28071611&layout=compact&theme=tokyonight)
+</p>
