@@ -35,4 +35,6 @@
   <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js"/>
   <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
