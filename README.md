@@ -23,6 +23,31 @@
 </p>
 
 ---
+---
+
+<h2 align="center">📊 Skill Depth Visualization</h2>
+
+<p align="center">
+
+🧠 Problem Solving  
+████████████████░░ 90%
+
+⚙️ Backend Development  
+██████████████░░░░ 75%
+
+🎨 Frontend Development  
+████████████░░░░░░ 65%
+
+🗄️ Database Handling  
+██████████████░░░░ 75%
+
+🚀 System Design  
+████████░░░░░░░░░░ 40%
+
+</p>
+
+---
+
 
 ## 🌟 Contribution Graph
 
@@ -32,8 +57,16 @@
 
 ---
 
+
 ## 🔥 Fun Animation
 
 <p align="center">
   <img src="Captain America Batman GIF.gif" width="250"/>
+</p>
+<h2 align="center">🎯 Mission Statement</h2>
+
+<p align="center">
+I am building myself into a <b>high-performance Full Stack Engineer</b> capable of designing scalable, efficient, and production-grade systems.  
+Focused on mastering both <b>problem-solving</b> and <b>real-world application development</b>.  
+My goal is not just to write code — but to <b>engineer solutions that matter</b> 🚀
 </p>
