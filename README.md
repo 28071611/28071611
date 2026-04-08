@@ -1,5 +1,3 @@
-## 🔥 Fun Animation
-
 <p align="center">
   <img src="Captain America Batman GIF.gif" width="250"/>
 </p>
@@ -12,24 +10,14 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=28071611&show_icons=true&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=28071611&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=28071611&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=28071611&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
-
-## 💻 Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,js,react,nodejs,mongodb,firebase,mysql" />
-</p>
-
----
----
-
 <h2 align="center">📊 Skill Depth Visualization</h2>
 
 <p align="center">
@@ -51,21 +39,25 @@
 
 </p>
 
----
 
-
-## 🌟 Contribution Graph
+<h2 align="center">💻 Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=28071611&theme=react-dark" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,react,nodejs,mongodb,firebase,mysql" />
 </p>
 
 ---
 
-<h2 align="center">🎯 Mission Statement</h2>
+<h2 align="center">🌟 Contribution Graph</h2>
 
 <p align="center">
-I am building myself into a <b>high-performance Full Stack Engineer</b> capable of designing scalable, efficient, and production-grade systems.  
-Focused on mastering both <b>problem-solving</b> and <b>real-world application development</b>.  
-My goal is not just to write code — but to <b>engineer solutions that matter</b> 🚀
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=28071611&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+<h2 align="center">🔥 Fun Animation</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 </p>
