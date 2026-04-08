@@ -1,3 +1,8 @@
+## 🔥 Fun Animation
+
+<p align="center">
+  <img src="Captain America Batman GIF.gif" width="250"/>
+</p>
 <h1 align="center">Hi 👋, I'm Harish</h1>
 <h3 align="center">🚀 Full Stack Developer | Tech Enthusiast</h3>
 
@@ -57,12 +62,6 @@
 
 ---
 
-
-## 🔥 Fun Animation
-
-<p align="center">
-  <img src="Captain America Batman GIF.gif" width="250"/>
-</p>
 <h2 align="center">🎯 Mission Statement</h2>
 
 <p align="center">
